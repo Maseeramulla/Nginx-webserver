@@ -1,1 +1,2 @@
 # Nginx-webserver
+Created a project where I deployed a custom Nginx web server using Terraform and Docker. The infrastructure was automated using Terraform scripts, which provisioned a Docker container running Nginx. I mapped a local directory to the container to serve a custom HTML page and styled it using CSS for an enhanced user experience. During the process, I resolved common issues like path errors, port conflicts, and Docker daemon connectivity problems. This project strengthened my practical knowledge of Infrastructure as Code, containerization, and DevOps workflows.
